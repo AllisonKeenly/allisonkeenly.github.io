@@ -6,12 +6,29 @@
 		<title>Allison Keenly | Home</title>
 		<link rel="shortcut icon" href="siteicon.png">
 
+		<script src="jquery.js"></script>
+
+		<script>
+			$(function(){
+				$("#includedContent").load("include-test.html");
+
+			});
+
+		</script>
+
 	</head>
 
 	<body>
-		<h1>Allison Keenly</h1>
-		<p>My home on the internet.</p>
-		<p>Hosted with GitHub Pages.</p>
+		<div id="pre-include">
+			<h1>Allison Keenly</h1>
+			<p>My home on the internet.</p>
+			<p>Hosted with GitHub Pages.</p>
+		</div>
+		<div id="include-content"></div>
+		<div id="post-include>
+			<p>Here's something after the inclusion</p>
+
+		</div>
 
 	</body>
 
