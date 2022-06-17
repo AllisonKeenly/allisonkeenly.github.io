@@ -34,7 +34,10 @@ a {
 }
 
 #contentblock {
-  padding:  75px;
+  padding-left:  75px;
+  padding-right:  75px;
+  padding-top:  0px;
+  padding-bottom:  25px;
 
 }
 
