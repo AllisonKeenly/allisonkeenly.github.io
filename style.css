@@ -33,6 +33,11 @@ p {
 
 }
 
+span {
+  text-transform: capitalize;
+
+}
+
 a {
   color: var(--bitter-sweet);
 
