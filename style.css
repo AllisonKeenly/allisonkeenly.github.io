@@ -30,6 +30,15 @@ a {
 
 }
 
+.menu-item {
+  width: 125px;
+  background:white;
+  margin:10px;
+  text-align:center;
+  display:inline-block;
+
+}
+
 #global-wrapper {
   width:  100%;
   max-width: 1100px;
