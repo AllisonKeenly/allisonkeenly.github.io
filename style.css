@@ -1,11 +1,12 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  align-content: center;
 
 }
 
 #global-wrapper {
   width:  100%;
-  max-width: 800px;
+  max-width: 1200px;
   background-color: lightgrey;
 
 }
