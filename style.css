@@ -17,7 +17,7 @@ body {
 
 #global-wrapper {
   width:  100%;
-  max-width: 1200px;
+  max-width: 1100px;
   margin-left: auto;
   margin-right: auto;
 
@@ -30,5 +30,22 @@ h1, h2 {
 
 a {
   color: var(--bitter-sweet);
+
+}
+
+#contentblock {
+  padding-left: 75px;
+  padding-right:  75px;
+
+}
+
+#footerblock>p {
+  text-align:  center;
+
+}
+
+#footerblock>hr {
+  margin-left:  100px;
+  margin-right:  100px;
 
 }
