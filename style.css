@@ -34,18 +34,11 @@ a {
 }
 
 #contentblock {
-  padding-left: 75px;
-  padding-right:  75px;
+  padding:  75px;
 
 }
 
 #footerblock>p {
   text-align:  center;
-
-}
-
-#footerblock>hr {
-  margin-left:  100px;
-  margin-right:  100px;
 
 }
