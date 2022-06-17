@@ -23,8 +23,13 @@ body {
 
 }
 
-h1, h2 {
+#page-title, #tagline {
   text-align: center;
+
+}
+
+p {
+  font-size: 15px;
 
 }
 
