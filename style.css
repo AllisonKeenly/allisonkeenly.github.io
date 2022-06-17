@@ -1,8 +1,11 @@
---floral-white: #fbf8f1;
---bitter-sweet: #ff7b65;
---pacific-blue: #31b7ca;
---english-violet: #574b60;
---dark-purple: #2c1e38;
+:root {
+  --floral-white: #fbf8f1;
+  --bitter-sweet: #ff7b65;
+  --pacific-blue: #31b7ca;
+  --english-violet: #574b60;
+  --dark-purple: #2c1e38;
+
+}
 
 body {
   font-family: Arial, Helvetica, sans-serif;
