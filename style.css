@@ -66,18 +66,8 @@ a {
 }
 */
 
-#menu {
-  float: left;
-
-}
-
 .menu-item {
   display: inline-block;
-  
-}
-
-#tagline {
-  float: right;
 
 }
 
