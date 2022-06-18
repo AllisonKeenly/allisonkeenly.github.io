@@ -66,6 +66,21 @@ a {
 }
 */
 
+#menu {
+  float: left;
+
+}
+
+.menu-item {
+  display: inline-block;
+  
+}
+
+#tagline {
+  float: right;
+
+}
+
 #contentblock {
   padding-left:  75px;
   padding-right:  75px;
