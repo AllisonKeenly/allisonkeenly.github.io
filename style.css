@@ -30,9 +30,9 @@ a {
 
 }
 
+/*
 .menu-item {
   width: 125px;
-  background:white;
   margin:10px;
   margin-left: auto;
   margin-right: auto;
@@ -40,6 +40,7 @@ a {
   display: inline-block;
 
 }
+*/
 
 #global-wrapper {
   width:  100%;
@@ -49,6 +50,7 @@ a {
 
 }
 
+/*
 #page-title, #tagline {
   display: inline-block;
   text-align: right;
@@ -59,8 +61,10 @@ a {
   margin-left: auto;
   margin-right: auto;
   text-align: left;
+  float: left;
 
 }
+*/
 
 #contentblock {
   padding-left:  75px;
