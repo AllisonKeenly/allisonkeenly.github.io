@@ -37,7 +37,7 @@ a {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  float: left;
+  display: inline-block;
 
 }
 
@@ -50,14 +50,15 @@ a {
 }
 
 #page-title, #tagline {
-  text-align: center;
+  display: inline-block;
+  text-align: right;
 
 }
 
 #menu {
   margin-left: auto;
   margin-right: auto;
-  overflow: hidden;
+  text-align: left;
 
 }
 
