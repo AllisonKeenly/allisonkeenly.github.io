@@ -30,6 +30,12 @@ a {
 
 }
 
+a.menu-item {
+  color: var(--dark-purple);
+  text-decoration: none;
+  
+}
+
 #global-wrapper {
   width:  100%;
   max-width: 1100px;
