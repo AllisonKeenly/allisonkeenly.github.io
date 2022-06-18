@@ -40,21 +40,26 @@ a {
 
 .menu-item {
   display: inline-block;
-
-}
-
-p.menu-item {
   font-size: 30px;
-  
+  width: 100px;
+  text-align: center;
+
 }
 
-#tagline {
-  width: 100%;
+#page-title {
+  display: inline-block;
   text-align: right;
 
 }
 
-#contentblock {
+/*
+#tagline {
+  text-align: right;
+
+}
+*/
+
+#content {
   padding-left:  75px;
   padding-right:  75px;
   padding-top:  10px;
@@ -62,13 +67,13 @@ p.menu-item {
 
 }
 
-#footerblock>p {
+#footer>p {
   font-size: 14px;
   text-align:  center;
 
 }
 
-#footerblock>hr {
+#footer>hr {
   padding-left:  75px;
   padding-right:  75px;
 
