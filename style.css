@@ -33,7 +33,7 @@ a {
 a.menu-item {
   color: var(--dark-purple);
   text-decoration: none;
-  
+
 }
 
 #global-wrapper {
@@ -47,7 +47,8 @@ a.menu-item {
 .menu-item {
   display: inline-block;
   font-size: 30px;
-  width: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
   text-align: center;
 
 }
